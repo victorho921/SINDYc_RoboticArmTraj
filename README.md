@@ -1,0 +1,1 @@
+# SINDYc_RoboticArmTraj
